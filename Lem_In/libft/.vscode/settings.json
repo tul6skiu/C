@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"cstring": "c",
+		"libft.h": "c",
+		"ostream": "c",
+		"fcntl.h": "c"
+	}
+}

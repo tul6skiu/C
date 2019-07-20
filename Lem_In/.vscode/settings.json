@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lem_in.h": "c",
+        "libft.h": "c"
+    }
+}
